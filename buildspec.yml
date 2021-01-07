@@ -20,8 +20,5 @@ phases:
 
 artifacts:
   files:
-    - 'index.html'
-    #- '**/*'
-   base-directory: 'dist*'
-   discard-paths: no
-  #name: my-webapp-artifacts       
+   - '**/*'
+   name: my-webapp-artifacts       
